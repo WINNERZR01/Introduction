@@ -12,7 +12,7 @@
 
 - ![](https://gitee.com/zr001/writeimges/raw/master/icons/favicon7.png)[Soildworksnote](https://winnerzr01.github.io/Soildworksnote/)
 
-- [![Snipaste_2020-10-19_09-17-16](https://gitee.com/zr001/writeimges/raw/master/img/Snipaste_2020-10-19_09-17-16.png)Geomagicdesignxnote](https://winnerzr01.github.io/Geomagicdesignx/)
+- ![](https://gitee.com/zr001/writeimges/raw/master/img/Snipaste_2020-10-19_09-17-16.png)[Geomagicdesignxnote](https://winnerzr01.github.io/Geomagicdesignx/)
 
 - ![](https://gitee.com/zr001/writeimges/raw/master/icons/favicon9.png)[Vimnote](https://winnerzr01.github.io/vimnote/)
 
@@ -20,21 +20,17 @@
 
 - ![](https://gitee.com/zr001/writeimges/raw/master/img/1w23rfer.ico)[bilibiliself](https://winnerzr01.github.io/bilibiliself/)
 
-- [![favicon1](https://gitee.com/zr001/writeimges/raw/master/images/favicon1.png)PPTnote](https://winnerzr01.github.io/PPTnote/)
+- ![favicon1](https://gitee.com/zr001/writeimges/raw/master/images/favicon1.png)[PPTnote](https://winnerzr01.github.io/PPTnote/)
 
-- [![favicon2](https://gitee.com/zr001/writeimges/raw/master/images/favicon2.png)Excelnote](https://winnerzr01.github.io/Excelnote/)
+- ![favicon2](https://gitee.com/zr001/writeimges/raw/master/images/favicon2.png)[Excelnote](https://winnerzr01.github.io/Excelnote/)
 
 - ![favicon3](https://gitee.com/zr001/writeimges/raw/master/images/favicon3.png)[Wordnote](https://winnerzr01.github.io/Wordnote/)
 
-- ![](https://gitee.com/zr001/writeimges/raw/master/img/1343AEWSDFSDF.ico)
-
-  [Aenote](https://winnerzr01.github.io/Aenote/)
+- ![](https://gitee.com/zr001/writeimges/raw/master/img/1343AEWSDFSDF.ico)[Aenote](https://winnerzr01.github.io/Aenote/)
 
 - ![](https://gitee.com/zr001/writeimges/raw/master/img/favicon.ico)[Ainote](https://winnerzr01.github.io/Ainote/)
 
-- ![](https://gitee.com/zr001/writeimges/raw/master/img/dasddasdasdsa.ico)
-
-  [Aunote](https://winnerzr01.github.io/Aunote/)
+- ![](https://gitee.com/zr001/writeimges/raw/master/img/dasddasdasdsa.ico)[Aunote](https://winnerzr01.github.io/Aunote/)
 
 - ![favicon5](https://gitee.com/zr001/writeimges/raw/master/images/favicon5.png)[Psnote](https://winnerzr01.github.io/Psnote/)
 
@@ -44,11 +40,9 @@
 
 - ![image-20200906100347228](https://gitee.com/zr001/writeimges/raw/master/images/image-20200906100347228.png)[Ugnote](https://winnerzr01.github.io/Ugnote/)
 
-- [![favicon7](https://gitee.com/zr001/writeimges/raw/master/images/favicon7.png)python](https://winnerzr01.github.io/pythonnote/)
+- ![favicon7](https://gitee.com/zr001/writeimges/raw/master/images/favicon7.png)[python](https://winnerzr01.github.io/pythonnote/)
 
-- ![](https://gitee.com/zr001/writeimges/raw/master/img/ffdrtrehmngd.ico)
-
-  [Linuxnote](https://winnerzr01.github.io/Linuxnote/)
+- ![](https://gitee.com/zr001/writeimges/raw/master/img/ffdrtrehmngd.ico)[Linuxnote](https://winnerzr01.github.io/Linuxnote/)
 
 - ***My hexo blog is [Winnerzr](https://zr001.gitee.io/zr001/).***
 

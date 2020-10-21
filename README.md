@@ -12,7 +12,7 @@
 
 - ![](https://gitee.com/zr001/writeimges/raw/master/icons/favicon7.png)[Soildworksnote](https://winnerzr01.github.io/Soildworksnote/)
 
-- ![](https://gitee.com/zr001/writeimges/raw/master/img/Snipaste_2020-10-19_09-17-16.png)[Geomagicdesignxnote](https://winnerzr01.github.io/Geomagicdesignx/)
+- ![dasdfdsxvssdftjuj](https://gitee.com/zr001/writeimges/raw/master/img/dasdfdsxvssdftjuj.png)[Geomagicdesignxnote](https://winnerzr01.github.io/Geomagicdesignx/)
 
 - ![](https://gitee.com/zr001/writeimges/raw/master/icons/favicon9.png)[Vimnote](https://winnerzr01.github.io/vimnote/)
 
@@ -38,7 +38,7 @@
 
 - ![favicon6](https://gitee.com/zr001/writeimges/raw/master/images/favicon6.png)[Dwnote](https://winnerzr01.github.io/Dwnote/)
 
-- ![image-20200906100347228](https://gitee.com/zr001/writeimges/raw/master/images/image-20200906100347228.png)[Ugnote](https://winnerzr01.github.io/Ugnote/)
+- ![dasdfdsxvsssdftjuj](https://gitee.com/zr001/writeimges/raw/master/img/dasdfdsxvsssdftjuj.png)[Ugnote](https://winnerzr01.github.io/Ugnote/)
 
 - ![favicon7](https://gitee.com/zr001/writeimges/raw/master/images/favicon7.png)[python](https://winnerzr01.github.io/pythonnote/)
 
